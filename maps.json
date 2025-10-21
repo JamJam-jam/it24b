@@ -1,8 +1,26 @@
 [
     {
         "name":"ICS Laboratory 1",
+        "title":"ICS Lab 1",
+        "description":"This is the ICS Laboratory 1, yipee",
+        "img":"https://cdn.thegreatprojects.com/thegreatprojects/images/c/c/c/d/9/cccd9ab3a8832417497e233c1cb92b9e.jpg?width=364&height=364&format=jpg",
         "lat":8.3593,
-        "lng":124.8691,
-        "description":"This is the ICS Laboratory 1, yipee"
+        "lng":124.8691
+    },
+    {
+        "name":"B.A building",
+        "title":"B.A building",
+        "description":"Diri ang department sa akong lalabs",
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTokQsOoNy2W40S8acAt3fM0oB-qJ76FiHILg&s",
+        "lat":8.359082,
+        "lng":124.868656
+    },
+    {
+        "name":"NBSC grounds",
+        "title":"NBSC grounds",
+        "description":"Diri ko nadagma",
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTSRPmKOrhPNQ0P4b5mAiMySvW2jTSxUHIGA&s",
+        "lat":8.3599620737947,
+        "lng":124.86830038147653
     }
 ]
